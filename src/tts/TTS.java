@@ -15,6 +15,8 @@ import com.sun.speech.freetts.audio.SingleFileAudioPlayer
  *
  * @author Sumit Suthar
  */
+ 
+ // Main class
 public class TTS {
   private String speakText;
     public  void doSpeak(String speak,String voice)
